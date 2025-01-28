@@ -1,0 +1,38 @@
+body {
+	background-color: #5A5A66;
+	color: #66CED6;
+}
+
+h1 {
+	font-family: "Lexend Giga", serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+}
+
+img {
+	width: 350px;
+}
+
+#triangle {
+	text-align: center;
+	background-color: #344966;
+	border-radius: 10px;
+	padding: 10px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	border: 5px solid #B4CDED;
+	font-family: "Quantico", serif;
+	font-weight: 700;
+	font-style: italic;
+}
+
+#temp {
+	text-align: left;
+	background-color: #5D707F;
+	border-radius: 10px;
+	padding: 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border: 3px solid #B4CDED;
+}
